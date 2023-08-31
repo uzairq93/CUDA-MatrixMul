@@ -5,4 +5,4 @@
 - Uzair Qadir: [uzairq93@gmail.com](mailto:uzairq93@gmail.com)
 
 ## Description
-Lab 1 implements matrix multiplication in CUDA
+This lab implements matrix multiplication in CUDA
